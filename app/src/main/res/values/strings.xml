@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">GoOutside</string>
+
+    <!-- TextViews -->
+    <string name="adventure_finder_slider_label">How much adventure can you handle?</string>
+    <string name="adventure_finder_slider_left">I'm so boring</string>
+    <string name="adventure_finder_slider_right">I swim with sharks regularly</string>
+    <string name="adventure_finder_destination"></string>
 </resources>
